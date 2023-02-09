@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "NairongZheng (郑乃榕)"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
-repository               : "RayeRen/acad-homepage.github.io"
+title                    : "NairongZheng"
+description              : "Master student in Fudan University. Focusing on intelligent interpretation of remote sensing images."
+repository               : "NairongZheng/NairongZheng.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "NairongZheng (郑乃榕)"
-  avatar           : "NairongZheng.png"
+  avatar           : "images/NairongZheng.png"
   bio              : ""
   location         : "Shanghai, China"
   employer         :
