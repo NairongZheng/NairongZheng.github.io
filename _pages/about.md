@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I received his BS degree from Fuzhou University, Fujian, China, in 2020. I am currently working toward my MS degree in the Key Laboratory for Information Science of Electromagnetic Waves (Ministry of Education), School of Information Science and Technology, Fudan University, Shanghai. My research interests include SAR image processing, computer vision, and semantic segmentation.
+I received my BS degree from Fuzhou University, Fujian, China, in 2020. I am currently working toward my MS degree in the Key Laboratory for Information Science of Electromagnetic Waves (Ministry of Education), School of Information Science and Technology, Fudan University, Shanghai. My research interests include SAR image processing, computer vision, and semantic segmentation.
 
 
 # 🔥 News
@@ -28,7 +28,7 @@ I received his BS degree from Fuzhou University, Fujian, China, in 2020. I am cu
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JARS</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JARS of SPIE</div><img src='images/attention.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Land cover classification of synthetic aperture radar images based on encoder-decoder network with an attention mechanism](https://www.spiedigitallibrary.org/journals/journal-of-applied-remote-sensing/volume-16/issue-1/014520/Land-cover-classification-of-synthetic-aperture-radar-images-based-on/10.1117/1.JRS.16.014520.short)
@@ -39,7 +39,7 @@ I received his BS degree from Fuzhou University, Fujian, China, in 2020. I am cu
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">National Remote Sensing Bulletin</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">National Remote Sensing Bulletin</div><img src='images/Research program.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Airborne Multi-Dimensional SAR Land Cover Dataset and Fusion Classification Method](https://www.ygxb.ac.cn/newAcademic/91/3301/singleFirst/0/0/zh/)
@@ -52,17 +52,29 @@ I received his BS degree from Fuzhou University, Fujian, China, in 2020. I am cu
 </div>
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHREOC 2022</div><img src='images/Semi-automatic labbeling.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Semi-automatic Annotation Method for Semantic Segmentation of Synthetic Aperture Radar Images](https://www.ygxb.ac.cn/newAcademic/91/3301/singleFirst/0/0/zh/)
+
+**Nai-Rong Zheng**, Zi-An Yang, Hong Yang, Yue Sun, Feng Wang
+
+- We proposed an efficient pixel level semi-automatic labeling algorithm.
+</div>
+</div>
+
+
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.04* Huawei Scholarship. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2020.09 - Now*, Master, Fudan University, Shanghai, China. 
+- *2016.09 - 2020.06*, Undergraduate, Fuzhou University, Fuzhou, China.
+. 
 
-# 💬 Invited Talks
+<!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
