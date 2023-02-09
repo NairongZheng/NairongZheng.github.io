@@ -70,7 +70,6 @@ I received my BS degree from Fuzhou University, Fujian, China, in 2020. I am cur
 # 📖 Educations
 - *2020.09 - Now*, Master, Fudan University, Shanghai, China. 
 - *2016.09 - 2020.06*, Undergraduate, Fuzhou University, Fuzhou, China.
-. 
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
