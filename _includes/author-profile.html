@@ -115,6 +115,9 @@
       {% if author.impactstory %}
         <li><a href="{{ author.impactstory }}"><i class="ai ai-impactstory ai-fw"></i> Impactstory</a></li>
       {% endif %}
+      {% if author.CSDN %}
+        <li><a href="{{ author.CSDN }}"><i class="fas fa-fw fa-graduation-cap"></i> CSDN</a></li>
+      {% endif %}
       {% if author.wikipedia %}
         <li><a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fab fa-fw fa-wikipedia-w" aria-hidden="true"></i> Wikipedia</a></li>
 {% endif %}
@@ -200,6 +203,9 @@
       {% endif %}
       {% if author.googlescholar %}
         <a href="{{ author.googlescholar }}"><i class="fas fa-fw fa-graduation-cap"></i></a>
+      {% endif %}
+      {% if author.CSDN %}
+        <a href="{{ author.CSDN }}"><i class="fas fa-fw fa-graduation-cap"></i></a>
       {% endif %}
       {% if author.pubmed %}
         <a href="{{ author.pubmed }}"><i class="ai ai-pubmed-square ai-fw"></i></a>
