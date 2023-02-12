@@ -40,3 +40,5 @@
 
 
 - `CHREOC 2022` [SAR Image Classification by Combining Transformer and Convolutional Neural Networks](https://link.springer.com/chapter/10.1007/978-981-19-8202-6_18), Zi-An Yang, **Nai-Rong Zheng**, Feng Wang
+- `ICLR 2023` [Bag of Tricks for Unsupervised Text-to-Speech](https://openreview.net/forum?id=SbR9mpTuBn), **Yi Ren**, Chen Zhang, Shuicheng Yan
+- `NeurIPS 2022` [Dict-TTS: Learning to Pronounce with Prior Dictionary Knowledge for Text-to-Speech](), Ziyue Jiang, Zhe Su, Zhou Zhao, Qian Yang, **Yi Ren**, Jinglin Liu, Zhenhui Ye [![](https://img.shields.io/github/stars/Zain-Jiang/Dict-TTS?style=social&label=Code+Stars)](https://github.com/Zain-Jiang/Dict-TTS)
