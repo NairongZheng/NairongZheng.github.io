@@ -35,6 +35,7 @@ I received my BS degree from Fuzhou University, Fujian, China, in 2020. I am cur
 
 **Nai-Rong Zheng**, Zi-An Yang, Xian-Zheng Shi, Ruo-Yi Zhou, Feng Wang
 
+[**Paper**](https://caps.luminad.com:8443/stockage/stock/SPIE/LDL-SPIE-JARS-210671G/JARS-210671G_online.pdf) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - We proposed an encoder-decoder network combined with attention mechanism for SAR image feature classification.
 </div>
 </div>
@@ -55,7 +56,7 @@ I received my BS degree from Fuzhou University, Fujian, China, in 2020. I am cur
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHREOC 2022</div><img src='images/Semi-automatic labbeling.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Semi-automatic Annotation Method for Semantic Segmentation of Synthetic Aperture Radar Images](https://www.ygxb.ac.cn/newAcademic/91/3301/singleFirst/0/0/zh/)
+[Semi-automatic Annotation Method for Semantic Segmentation of Synthetic Aperture Radar Images](https://link.springer.com/chapter/10.1007/978-981-19-8202-6_9)
 
 **Nai-Rong Zheng**, Zi-An Yang, Hong Yang, Yue Sun, Feng Wang
 
