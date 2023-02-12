@@ -39,4 +39,4 @@
 </div>
 
 
-- ``CHREOC 2022`` [SAR Image Classification by Combining Transformer and Convolutional Neural Networks](https://link.springer.com/chapter/10.1007/978-981-19-8202-6_18), Zi-An Yang, **Nai-Rong Zheng**, Feng Wang
+- `CHREOC 2022` [SAR Image Classification by Combining Transformer and Convolutional Neural Networks](https://link.springer.com/chapter/10.1007/978-981-19-8202-6_18), Zi-An Yang, **Nai-Rong Zheng**, Feng Wang
