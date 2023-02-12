@@ -4,7 +4,7 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JARS of SPIE</div><img src='images/attention.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Land cover classification of synthetic aperture radar images based on encoder-decoder network with an attention mechanism](https://www.spiedigitallibrary.org/journals/journal-of-applied-remote-sensing/volume-16/issue-1/014520/Land-cover-classification-of-synthetic-aperture-radar-images-based-on/10.1117/1.JRS.16.014520.short)
+[Land cover classification of synthetic aperture radar images based on encoder-decoder network with an attention mechanism](https://www.spiedigitallibrary.org/journals/journal-of-applied-remote-sensing/volume-16/issue-1/014520/Land-cover-classification-of-synthetic-aperture-radar-images-based-on/10.1117/1.JRS.16.014520.short)\\
 
 **Nai-Rong Zheng**, Zi-An Yang, Xian-Zheng Shi, Ruo-Yi Zhou, Feng Wang
 
@@ -17,7 +17,7 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">National Remote Sensing Bulletin</div><img src='images/Research program.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Airborne Multi-Dimensional SAR Land Cover Dataset and Fusion Classification Method](https://www.ygxb.ac.cn/newAcademic/91/3301/singleFirst/0/0/zh/)
+[Airborne Multi-Dimensional SAR Land Cover Dataset and Fusion Classification Method](https://www.ygxb.ac.cn/newAcademic/91/3301/singleFirst/0/0/zh/)\\
 
 **Nai-Rong Zheng**, Zi-An Yang, Xian-Zheng Shi, Hong Yang, Yue Sun, Feng Wang
 
@@ -30,7 +30,7 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHREOC 2022</div><img src='images/Semi-automatic labbeling.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Semi-automatic Annotation Method for Semantic Segmentation of Synthetic Aperture Radar Images](https://link.springer.com/chapter/10.1007/978-981-19-8202-6_9)
+[Semi-automatic Annotation Method for Semantic Segmentation of Synthetic Aperture Radar Images](https://link.springer.com/chapter/10.1007/978-981-19-8202-6_9)\\
 
 **Nai-Rong Zheng**, Zi-An Yang, Hong Yang, Yue Sun, Feng Wang
 
@@ -40,5 +40,3 @@
 
 
 - `CHREOC 2022` [SAR Image Classification by Combining Transformer and Convolutional Neural Networks](https://link.springer.com/chapter/10.1007/978-981-19-8202-6_18), Zi-An Yang, **Nai-Rong Zheng**, Feng Wang
-- `ICLR 2023` [Bag of Tricks for Unsupervised Text-to-Speech](https://openreview.net/forum?id=SbR9mpTuBn), **Yi Ren**, Chen Zhang, Shuicheng Yan
-- `NeurIPS 2022` [Dict-TTS: Learning to Pronounce with Prior Dictionary Knowledge for Text-to-Speech](), Ziyue Jiang, Zhe Su, Zhou Zhao, Qian Yang, **Yi Ren**, Jinglin Liu, Zhenhui Ye [![](https://img.shields.io/github/stars/Zain-Jiang/Dict-TTS?style=social&label=Code+Stars)](https://github.com/Zain-Jiang/Dict-TTS)
