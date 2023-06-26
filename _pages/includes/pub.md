@@ -31,7 +31,7 @@
 [Semi-automatic Annotation Method for Semantic Segmentation of Synthetic Aperture Radar Images](https://link.springer.com/chapter/10.1007/978-981-19-8202-6_9) \\
 **Nai-Rong Zheng**, Zi-An Yang, Hong Yang, Yue Sun, Feng Wang
 
-- We proposed an efficient pixel level semi-automatic labeling algorithm.
+- An efficient pixel level semi-automatic labeling algorithm was proposed.
 </div>
 </div>
 
