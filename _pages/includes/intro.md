@@ -1,5 +1,5 @@
 <!-- I received my BS degree from Fuzhou University, Fujian, China, in 2020. I am currently working toward my MS degree in the Key Laboratory for Information Science of Electromagnetic Waves (Ministry of Education), School of Information Science and Technology, Fudan University, Shanghai. My research interests include SAR image processing, computer vision, and semantic segmentation. -->
 
-I graduated from the College of Physics and Information Engineering, Fuzhou University with a bachelor’s degree and from the Key Laboratory for Information Science of Electromagnetic Waves ([Ministry of Education](https://emwlab.fudan.edu.cn/)), the School of Information Science and Technology, Fudan University with a master’s degree, advised by [Feng Wang](http://www.it.fudan.edu.cn/Data/View/2987).
+I graduated from the College of Physics and Information Engineering, Fuzhou University with a bachelor’s degree and from the [Key Laboratory for Information Science of Electromagnetic Waves (Ministry of Education)](https://emwlab.fudan.edu.cn/), the School of Information Science and Technology, Fudan University with a master’s degree, advised by [Feng Wang](http://www.it.fudan.edu.cn/Data/View/2987).
 
 My research interests include SAR image processing and semantic segmentation.
