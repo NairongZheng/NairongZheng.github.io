@@ -16,7 +16,7 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">National Remote Sensing Bulletin</div><img src='images/Research program.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Airborne Multi-Dimensional SAR Land Cover Dataset and Fusion Classification Method](https://www.ygxb.ac.cn/newAcademic/91/3301/singleFirst/0/0/zh/) \\
+[Airborne Multi-Dimensional SAR Land Cover Dataset and Fusion Classification Method]([https://www.ygxb.ac.cn/newAcademic/91/3301/singleFirst/0/0/zh/](http://jors.ijournals.cn/jrs/ch/reader/view_abstract.aspx?file_no=202205260000002&flag=2)) \\
 **Nai-Rong Zheng**, Zi-An Yang, Xian-Zheng Shi, Hong Yang, Yue Sun, Feng Wang
 
 [**Project**](https://github.com/NairongZheng/AIR-MDSAR-Map) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
